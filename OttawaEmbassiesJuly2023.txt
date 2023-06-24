@@ -8,7 +8,7 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-Embassies - Jul 2023
+Embassies - July 2023
 Chinese (North Korea)
 Russian (Kaliningrad)
 Saudi (Kabul)
@@ -22,5 +22,11 @@ Legislative - Simple - up or down vote.
 
 
 Content
-Front-end and
+Our's
+Power structure
+Front-end
+Back-end
+Their's
+Power structure
+Front-end
 Back-end
