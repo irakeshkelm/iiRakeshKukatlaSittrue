@@ -8,25 +8,53 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-Embassies - July 2023
+Play with
+[
+Fidelity
+Rakesh Kukatla
+]
+
+
+Taming of the shrew
+[
+I am here to drive, to Independent interest, today.
+
+
+I will be driving with American Independent interest. I am also taking English and European Independent interest with me. I am on my way to expand and update the Independent interest. I am from the USA aka Great America (I am American aka Great American/English/European). Approximate final destination is {?, ? - example - Pyongyang, North Korea}.
+
+
+You pick the Law (Land), Process (President, referendum and legislative) and your Content.
+
+
+Embassies
+Shoot for two corridor's
 Chinese (North Korea)
 Russian (Kaliningrad)
 Saudi (Kabul)
 Australian (Northern Canada - Hudson Bay)
 Swiss (Northern Scan - Hudson)
+Israeli (Engineering - Technology)
 
 
+Law
+Locations in braces.
+-
 Process
-Ambassador - President - Ambassador - Simple - up or down vote.
-Legislative - Simple - up or down vote.
+Shoot for two corridor's
+Ambassador - President - Ambassador - Simple - offers - up or down vote - referendum. (nada negotiation)
+Legislative - Simple - up or down vote. (nada negotiation)
 
 
 Content
+Shoot for two corridor's
 Our's
 Power structure
+militia-chief judge-fed chair
+executive-legislative
 Front-end
 Back-end
 Their's
 Power structure
 Front-end
 Back-end
+]
