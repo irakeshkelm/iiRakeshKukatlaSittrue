@@ -1,6 +1,6 @@
 # iirakeshkelm
 
-Rakesh Kukatla- Planet, Independent interest (Suc-king)
+Rakesh Kukatla- Planet, Galaxy - Independent interest (Suc-king)
 
 https://rakeshkukatla.planet.ii
 
