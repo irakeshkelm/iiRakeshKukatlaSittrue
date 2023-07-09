@@ -30,7 +30,7 @@ Operationalize to-date
 ]
 
 
-Maintenance circles
+Maintain circles
 [
 New and existing
 Service
@@ -39,7 +39,7 @@ Assistance/Help desk
 ]
 
 
-Training circles
+Train circles
 [
 New and existing
 use - training

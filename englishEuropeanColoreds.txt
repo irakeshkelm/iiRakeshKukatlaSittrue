@@ -17,7 +17,7 @@ Danish
 Norwegians
 Swedish
 Finnish
-Finnish trailer
+Trailer
 ]
 
 
@@ -45,6 +45,8 @@ Trailer
 
 Eastern European
 [
-Maintained as spanish browns
+Maintained as
+Spanish browns
+English browns
 Trailer
 ]
