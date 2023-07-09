@@ -1,4 +1,4 @@
-﻿American coloreds
+﻿American co-lo-reds
 
 
 Blacks aka mainlanders
@@ -10,11 +10,13 @@ other blacks - Atlantic islanders
 [
 Carribbeans
 Haitians
+other
 ]
 Browns aka mainlanders
 [
 Mexicans
-Latinos
+Latinos - central and south america
+other
 ]
 other browns - atlantic islanders
 [
@@ -27,6 +29,7 @@ Yellows aka mainlanders
 Phillippinos
 Chinese
 South asians
+other
 ]
 other yellows - Pacific islanders
 [

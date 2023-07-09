@@ -1,0 +1,50 @@
+﻿English and European co-lo-reds
+
+
+English
+[
+Irish
+Scottish
+Welsh
+English
+English trailer
+]
+
+
+Northern European
+[
+Danish
+Norwegians
+Swedish
+Finnish
+Finnish trailer
+]
+
+
+Southern European
+[
+prime
+{
+Germans
+Italians
+Greek
+Spanish
+French
+Trailer
+}
+sub-prime
+{
+Austrians
+Dutch
+Belgians
+Czechoslovaks
+Trailer
+}
+]
+
+
+Eastern European
+[
+Maintained as spanish browns
+Trailer
+]

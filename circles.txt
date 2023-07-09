@@ -1,0 +1,39 @@
+﻿Circles
+
+
+People circles
+[
+Private
+
+
+Non profit
+private
+Government
+
+
+Government
+]
+
+
+Expand circles
+[
+New
+Build and
+Operationalize
+]
+
+
+Update circles
+[
+Existing
+Operationalize to-date
+]
+
+
+Maintenance circles
+[
+New and existing
+Service
+Support
+Assistance/Help desk
+]
