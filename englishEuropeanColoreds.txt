@@ -25,6 +25,7 @@ Southern European
 [
 prime
 {
+Austrians
 Germans
 Italians
 Greek
@@ -34,7 +35,6 @@ Trailer
 }
 sub-prime
 {
-Austrians
 Dutch
 Belgians
 Czechoslovaks
@@ -50,3 +50,14 @@ Spanish browns
 English browns
 Trailer
 ]
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
