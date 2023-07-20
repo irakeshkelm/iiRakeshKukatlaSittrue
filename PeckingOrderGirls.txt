@@ -1,0 +1,35 @@
+﻿Pecking order Girls
+
+
+girls
+[
+legal
+open legal
+]
+
+
+Beautiful girls
+[
+illegal
+open illegal
+]
+
+
+Ugly girls
+[
+legal
+open illegal
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
