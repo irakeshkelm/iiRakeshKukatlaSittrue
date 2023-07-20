@@ -5,6 +5,10 @@ girls
 [
 legal
 open legal
+try
+{
+Independent interest and Militia
+}
 ]
 
 
@@ -12,6 +16,10 @@ Beautiful girls
 [
 illegal
 open illegal
+try
+{
+pubic health
+}
 ]
 
 
@@ -19,6 +27,10 @@ Ugly girls
 [
 legal
 open illegal
+continue
+{
+business as usual
+}
 ]
 
 
