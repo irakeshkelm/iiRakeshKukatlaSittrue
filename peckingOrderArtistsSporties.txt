@@ -1,10 +1,11 @@
-﻿Artists and sporties Pecking order
+﻿Pecking order - Artists and sporties
 
 
 Sitting position and presence in church
 [
 Artists
 {
+?
 Meghan Trainor
 Madison Beer
 Princess Cary
@@ -16,5 +17,8 @@ s-por-ties
 {
 Rakesh Kukatla
 ?
+?
+?
+other(s)
 }
 ]
