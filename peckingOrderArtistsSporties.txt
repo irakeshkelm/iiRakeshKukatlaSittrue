@@ -6,6 +6,7 @@ Sitting position and presence in church
 Artists
 {
 ?
+Paula Cole
 Meghan Trainor
 Madison Beer
 Princess Cary
@@ -22,3 +23,16 @@ Rakesh Kukatla
 other(s)
 }
 ]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
