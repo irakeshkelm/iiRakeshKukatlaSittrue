@@ -21,12 +21,12 @@ You pick the Law (Land), Process (President, referendum and legislative) and you
 
 Embassies
 Shoot for two corridor's
-Israeli (Engineering - Technology)
-Argentina (Irish - Engineering - Technology)
+Spanish (Israeli - Engineering - Technology)
+Argentinian (Irish - Engineering - Technology)
 French (Italian - Engineering - Technology)
+United Kingdom (Spain - Engineering - Technology)
 Swiss (Northern Scan - Hudson)
 Australian (Northern Canada - Hudson Bay)
-Canada (Spain - New Spain)
 Saudi (Kabul)
 Russian (Kaliningrad)
 Chinese (North Korea)
@@ -46,7 +46,7 @@ Content
 Shoot for two corridor's
 Our's
 Power structure
-militia-chief judge-fed chair
+militia-chief judge-fed bank chair
 executive-legislative
 Front-end
 Back-end
