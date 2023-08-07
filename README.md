@@ -4,11 +4,15 @@ Rakesh Kukatla- Planet, Galaxy - Independent interest (Suc-king)
 
 https://rakeshkukatla.planet.ii
 
-Check out, rakeshKukatla.txt in this folder
+Check out, 
+
+rakeshKukatla.txt (in this folder)
 
 then, continue
 
-to Check out, ottawaEmbassies2023withCarToCarveOut.txt
+to Check out, 
+
+ottawaEmbassies2023withCarToCarveOut.txt (in this folder)
 
 then,
 
