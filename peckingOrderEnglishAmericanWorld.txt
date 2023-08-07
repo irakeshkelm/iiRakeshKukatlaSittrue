@@ -30,12 +30,13 @@ World
 [
 lemon-aid english
 {
+India english
+Srilankan english
 Canada english
 Hongkong english
 Uganda english
 Tanzania english
 Swiss english
-India english
 England english
 Saudi english
 Kenya english
@@ -70,5 +71,7 @@ other(s)
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+location : USA - Banana republicans (aka United slaves, aka Romani)
+USA = United slave america
