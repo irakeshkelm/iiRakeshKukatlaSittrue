@@ -6,6 +6,12 @@ https://rakeshkukatla.planet.ii
 
 Check out, rakeshKukatla.txt in this folder
 
+then, continue
+
+to Check out, ottawaEmbassies2023withCarToCarveOut.txt
+
+then,
+
 Check out, irakeshkelm/iiforward folder (multiple files)
 
 Check out, rakeshkelm/iipresentGuard folder (multiple files)
