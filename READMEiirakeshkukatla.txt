@@ -1,6 +1,6 @@
 # iirakeshkukatla
 
-Rakesh Kukatla- Planet, Galaxy - Independent interest (Suc-king)
+Seeking private equity, Rakesh Kukatla- Planet, Galaxy - Independent interest (Suc-king)
 
 https://rakeshkukatla.planet.ii
 
